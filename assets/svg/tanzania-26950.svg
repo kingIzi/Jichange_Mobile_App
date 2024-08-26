@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 744.094482 496.062988" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(4.1339 0 0 4.1339 0 -1.5259e-5)" fill-rule="evenodd" font-size="12">
+  <path d="m0 0h180v120h-180z" fill="#09f"/>
+  <path d="m0 7.1054e-15h180l-180 120v-120z" fill="#090"/>
+  <path d="m0 120h40l140-95v-25h-40l-140 95v25z"/>
+  <path d="m0 91.456 137.18-91.456h13.521l-150.7 100.47v-9.0139z" fill="#ff0"/>
+  <path transform="translate(30 24.53)" d="m-0.7049 95.47 150.7-100.47v9.0139l-137.18 91.456h-13.521z" fill="#ff0"/>
+ </g>
+</svg>

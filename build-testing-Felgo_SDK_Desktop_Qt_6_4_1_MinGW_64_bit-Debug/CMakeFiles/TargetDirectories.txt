@@ -1,0 +1,4 @@
+C:/Users/scott/Documents/DEV/cpp/jichanges/jichange_v3/build-testing-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/auth.dir
+C:/Users/scott/Documents/DEV/cpp/jichanges/jichange_v3/build-testing-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/Users/scott/Documents/DEV/cpp/jichanges/jichange_v3/build-testing-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/scott/Documents/DEV/cpp/jichanges/jichange_v3/build-testing-Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
